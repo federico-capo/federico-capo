@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Write once run anywhere<br>📚 I'm currently learning <br>🎯 Goals: Dream</p>
+<p align="center">✨ Write once run anywhere<br>📚 I'm currently learning <br>🎯 Goals: ----</p>
 
 ###
 
