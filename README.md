@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">MI chiamo Federico Caporuscio</p>
+<p align="center">MI chiamo Federico </p>
 
 ###
 
